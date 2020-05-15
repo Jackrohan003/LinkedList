@@ -3,6 +3,7 @@ class MyStack {
 
     // Note that top is by default null
     // in Java
+    
     StackNode top;
     void push(int a) {
         
